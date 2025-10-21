@@ -37,34 +37,7 @@
 </div>
 
 <!-- 技能栈：大尺寸+霓虹色图标，分栏对齐 -->
-### 🛠️ 技术栈
-<div align="center">
-  <!-- 后端核心：大尺寸图标 -->
-  <p><b>后端核心</b></p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" title="Spring" />
 
-  <!-- Spring Cloud：霓虹色logo -->
-  <p><b>Spring Cloud 组件</b></p>
-  <img src="https://nacos.io/images/logo.png" width="60" height="60" title="Nacos" />
-  <img src="https://sentinelguard.io/img/logo.png" width="60" height="60" title="Sentinel" />
-  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="60" height="60" title="Gateway" />
-  <img src="https://miro.medium.com/v2/resize:fit:400/1*Pp7Xi6Vuy9n2zqQ2K3hYFw.png" width="60" height="60" title="Ribbon" />
-
-  <!-- 数据存储：高饱和色图标 -->
-  <p><b>数据存储 & 中间件</b></p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60" height="60" title="Redis" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="60" height="60" title="RabbitMQ" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="60" height="60" title="Elasticsearch" />
-
-  <!-- AI & 算法：霓虹紫图标 -->
-  <p><b>AI & 算法</b></p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60" title="PyTorch" />
-</div>
 
 <!-- 成就勋章：深色主题+霓虹粉文字 -->
 ### 🏆 技术成就
