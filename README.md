@@ -1,6 +1,6 @@
 <!-- 顶部霓虹渐变波浪：高饱和色+醒目文字 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FF6AD5,7C4DFF,4682B4&height=260&section=header&text=👋%20Hi!%20I'm%20张鸿昊&fontSize=42&fontColor=FFFFFF&animation=twinkling&speed=2&direction=left&fontWeight=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FF6AD5,7C4DFF,4682B4&height=260&section=header&text=👋%20Hi!%20I'm%20zhh&fontSize=42&fontColor=FFFFFF&animation=twinkling&speed=2&direction=left&fontWeight=bold" />
 </p>
 
 <!-- 霓虹色个人标签：高饱和配色+大尺寸 -->
