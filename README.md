@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/zhh293"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF6AD5&labelColor=000000" /></a>
   <a href="mailto:928198963@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=7C4DFF&labelColor=000000" /></a>
-  <a href="https://zhh293.github.io.com"><img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=wordpress&logoColor=4682B4&labelColor=000000" /></a>
+  <a href="https://zhh293.github.io"><img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=wordpress&logoColor=4682B4&labelColor=000000" /></a>
   <a href="https://leetcode.cn/u/dreamy-gatesdmp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FF6AD5&labelColor=000000" /></a>
 </p>
 
